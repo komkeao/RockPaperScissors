@@ -1,0 +1,16 @@
+﻿<Window x:Class="Network1._4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Network1._4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="720" Width="1280" WindowStartupLocation="CenterScreen" Icon="Res/icon.jpg" Closed="Window_Closed"  >
+    <Window.Background>
+        <ImageBrush ImageSource="bg.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Frame x:Name="frame" Content="Frame" HorizontalAlignment="Left" Height="669" Margin="10,10,0,0" VerticalAlignment="Top" Width="1262" Source="/Network1.4;component/Login.xaml" NavigationUIVisibility="Hidden"/>
+    </Grid>
+
+</Window>

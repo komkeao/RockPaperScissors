@@ -1,0 +1,26 @@
+﻿<Page x:Class="Network1._4.Main"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Network1._4"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="Main">
+
+    <Grid Width="1272" Height="689">
+        <ListBox x:Name="listBoxPlayer" HorizontalAlignment="Left" Height="459" Margin="914,135,0,0" VerticalAlignment="Top" Width="286" FontFamily="RSU" FontSize="29.333" Background="#FFD9F0FC" MouseDoubleClick="listBoxPlayer_MouseDoubleClick"/>
+        <ListBox x:Name="listBoxChat" HorizontalAlignment="Left" Height="381" Margin="86,135,0,0" VerticalAlignment="Top" Width="763" >
+            <ListBox.Background>
+                <SolidColorBrush Color="White" Opacity="0.5"/>
+            </ListBox.Background>
+        </ListBox>
+        <TextBox x:Name="textBoxChat" HorizontalAlignment="Left" Height="46" Margin="86,548,0,0" TextWrapping="Wrap" Text="ส่งข้อความ" VerticalAlignment="Top" Width="763" FontSize="26.667" KeyDown="textBoxChat_KeyDown" IsKeyboardFocusedChanged="textBoxChat_IsKeyboardFocusedChanged">
+            <TextBox.Background>
+                <SolidColorBrush Color="#FFA4E6FF" Opacity="0.5"/>
+            </TextBox.Background>
+        </TextBox>
+        <TextBlock x:Name="textBlockChat" HorizontalAlignment="Left" Margin="102,73,0,0" TextWrapping="Wrap" Text="Chat Room" VerticalAlignment="Top" Height="32" Width="231" FontSize="29.333" Foreground="White"/>
+        <TextBlock x:Name="textBlockPlayer" HorizontalAlignment="Left" Margin="977,76,0,0" TextWrapping="Wrap" Text="Player Online" VerticalAlignment="Top" Height="32" Width="178" FontSize="26.667" Foreground="White"/>
+    </Grid>
+</Page>

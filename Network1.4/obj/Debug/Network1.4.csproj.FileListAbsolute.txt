@@ -1,0 +1,223 @@
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\bin\Debug\Network1.4.exe.config
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\bin\Debug\Network1.4.exe
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\bin\Debug\Network1.4.pdb
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\MainWindow.g.cs
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\App.g.cs
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\MainWindow.baml
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4.g.resources
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4.exe
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Network1.4.pdb
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Main.g.cs
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Main.baml
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Login.g.cs
+d:\documents\visual studio 2015\Projects\Network1.4\Network1.4\obj\Debug\Login.baml
+E:\Project\Network\Network1.4\bin\Debug\Network1.4.exe.config
+E:\Project\Network\Network1.4\obj\Debug\Network1.4.exe
+E:\Project\Network\Network1.4\obj\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git\Network1.4\bin\Debug\Network1.4.exe.config
+E:\Project\Network\Network1.4\bin\Debug\Network1.4.exe
+E:\Project\Network\Network1.4\bin\Debug\Network1.4.pdb
+E:\Project\Network\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+E:\Project\Network\Network1.4\obj\Debug\Main.g.cs
+E:\Project\Network\Network1.4\obj\Debug\MainWindow.g.cs
+E:\Project\Network\Network1.4\obj\Debug\Login.g.cs
+E:\Project\Network\Network1.4\obj\Debug\App.g.cs
+E:\Project\Network\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+E:\Project\Network\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+E:\Project\Network\Network1.4\obj\Debug\Main.baml
+E:\Project\Network\Network1.4\obj\Debug\MainWindow.baml
+E:\Project\Network\Network1.4\obj\Debug\Login.baml
+E:\Project\Network\Network1.4\obj\Debug\Network1.4.g.resources
+E:\Project\Network\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+E:\Project\Network\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\bin\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\bin\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Main.g.cs
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Login.g.cs
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\App.g.cs
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Main.baml
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\MainWindow.baml
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Login.baml
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Game.g.cs
+D:\Documents\visual studio 2015\Projects\git1\Network1.4\obj\Debug\Game.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\bin\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\bin\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Game.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Main.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Login.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\App.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Game.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Main.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\MainWindow.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Login.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Documents\visual studio 2015\Projects\git1 - Copy (2)\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\bin\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\bin\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Game.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Main.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Login.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\App.g.cs
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Game.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Main.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\MainWindow.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Login.baml
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Documents\visual studio 2015\Projects\git1 - Copy now\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\bin\Debug\Network1.4.exe
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\bin\Debug\Network1.4.pdb
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Game.g.cs
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Main.g.cs
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Login.g.cs
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\App.g.cs
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Game.baml
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Main.baml
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\MainWindow.baml
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Login.baml
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\bin\Debug\Network1.4.exe.manifest
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\bin\Debug\Network1.4.application
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.exe.manifest
+D:\Documents\visual studio 2015\Projects\Network 2.0\Network1.4\obj\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Game.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Main.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Login.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\App.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\bin\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\bin\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\bin\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\bin\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Game.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Main.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\MainWindow.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Login.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.1\Network1.4\obj\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\bin\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\bin\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\bin\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\bin\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Game.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Main.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Login.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\App.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Game.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Main.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\MainWindow.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Login.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.2\Network1.4\obj\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\bin\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\bin\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\bin\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\bin\Debug\Network1.4.pdb
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Game.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Main.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Login.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\App.g.cs
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Game.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Main.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\MainWindow.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Login.baml
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.exe.manifest
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 2.3\Network1.4\obj\Debug\Network1.4.application
+C:\Users\Saitan\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.exe.config
+C:\Users\Saitan\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.exe
+C:\Users\Saitan\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.pdb
+D:\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.exe
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.pdb
+D:\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.exe.manifest
+D:\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.application
+D:\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.exe
+D:\Desktop\Network-2.3\Network1.4\bin\Debug\Network1.4.pdb
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.csprojResolveAssemblyReference.cache
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Game.g.cs
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Main.g.cs
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\MainWindow.g.cs
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Login.g.cs
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\App.g.cs
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4_MarkupCompile.cache
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4_MarkupCompile.lref
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Game.baml
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Main.baml
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\MainWindow.baml
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Login.baml
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.g.resources
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1._4.Properties.Resources.resources
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.csproj.GenerateResource.Cache
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.exe.manifest
+D:\Desktop\Network-2.3\Network1.4\obj\Debug\Network1.4.application
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 3.0 Release\Network1.4\bin\Debug\Network1.4.exe.config
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 3.0 Release\Network1.4\obj\Debug\Network1.4.exe
+D:\Studdy\ปี 2 เทอม 2\Network\Midterm Project\My Project\Network 3.0 Release\Network1.4\obj\Debug\Network1.4.pdb
